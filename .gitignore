@@ -1,0 +1,38 @@
+############################
+# MATLAB auto-generated
+############################
+*.asv
+*.m~
+*.mex*
+*.p
+slprj/
+*.slxc
+
+############################
+# Simulation outputs
+############################
+results/
+output/
+*.mat
+*.fig
+*.dat
+*.log
+
+############################
+# Temporary / cache
+############################
+tmp/
+cache/
+
+############################
+# OS / Editor
+############################
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+############################
+# Notebooks (if any)
+############################
+.ipynb_checkpoints/
